@@ -73,9 +73,9 @@ jobs:
                 "decryption": "none",
                 "clients": [
                   {
-                    "id": "${V2_UUID}"
-                    "alterId":64
-                    "v":"2"
+                    "id": "${V2_UUID}",
+                    "level": 1,
+                    "alterId": 64
                   }
                 ]
               },
