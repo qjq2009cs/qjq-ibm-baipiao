@@ -68,7 +68,7 @@ jobs:
           "inbounds": [
             {
               "port": 8080,
-              "protocol": "vless",
+              "protocol": "vmess",
               "settings": {
                 "decryption": "none",
                 "clients": [
